@@ -17,6 +17,8 @@ namespace PotapanjeBrodova
         {
 
 
+
+
         
             List<Polje> polja = DajKandidateZaHorizontalniBrod().ToList();
             polja.AddRange(DajKandidateZaVertikalniBrod());
