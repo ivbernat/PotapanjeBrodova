@@ -19,6 +19,8 @@ namespace PotapanjeBrodova
             this.Polja = polja;
         }
 
+        //pokusaj2
+
         public int Duljina
         {
             get { return Polja.Count(); }
