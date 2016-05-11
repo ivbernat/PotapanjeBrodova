@@ -10,6 +10,7 @@ namespace PotapanjeBrodova
         public Napipač(Mreža mreža, int duljinaBroda)
         {
 
+            //testiram
 
             this.mreža = mreža;
             this.duljinaBroda = duljinaBroda;
