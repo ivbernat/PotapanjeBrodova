@@ -19,7 +19,7 @@ namespace PotapanjeBrodova
             this.Polja = polja;
         }
 
-        //pokusaj2
+        //pokusaj2 
 
         public int Duljina
         {
