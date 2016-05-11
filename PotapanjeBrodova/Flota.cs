@@ -7,6 +7,7 @@ namespace PotapanjeBrodova
         public void DodajBrod(Brod b)
         {
             brodovi.Add(b);
+
         }
 
         public IEnumerable<Brod> Brodovi
