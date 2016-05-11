@@ -46,6 +46,7 @@
     <Compile Include="IOdabirPočetnogPoljaZaBrod.cs" />
     <Compile Include="IPucač.cs" />
     <Compile Include="KlasičniEliminatorPolja.cs" />
+    <Compile Include="KružniPucač.cs" />
     <Compile Include="Mreža.cs" />
     <Compile Include="Napipač.cs" />
     <Compile Include="Polje.cs" />
