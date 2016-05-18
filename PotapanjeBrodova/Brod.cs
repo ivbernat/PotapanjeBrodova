@@ -24,6 +24,7 @@ namespace PotapanjeBrodova
         public int Duljina
         {
             get { return Polja.Count(); }
+
         }
 
         public RezultatGađanja Gađaj(Polje p)
