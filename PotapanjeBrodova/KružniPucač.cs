@@ -11,6 +11,7 @@ namespace PotapanjeBrodova
         {
             this.prvoPogođeno = prvoPogođeno;
             this.mreža = mreža;
+
         }
 
         public Polje UputiPucanj()
