@@ -10,12 +10,6 @@ namespace PotapanjeBrodova
         public Napipač(Mreža mreža, int duljinaBroda)
         {
 
-<<<<<<< HEAD
-           
-=======
-            //testiram
-
->>>>>>> cafe53960dc9d31f04b199c035dcd7bda33bc9c6
             this.mreža = mreža;
             this.duljinaBroda = duljinaBroda;
         }
