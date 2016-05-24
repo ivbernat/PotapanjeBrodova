@@ -12,6 +12,7 @@ namespace PotapanjeBrodova
         {
             pogođenaPolja.Add(prvoPogođeno);
             this.mreža = mreža;
+
         }
 
         #region Implementacija sučelja IPucač
