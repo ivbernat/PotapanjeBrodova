@@ -28,6 +28,7 @@ namespace PotapanjeBrodova
         public Napipač(Mreža mreža, int duljinaBroda)
         {
             this.mreža = mreža;
+
             this.duljinaBroda = duljinaBroda;
         }
 
