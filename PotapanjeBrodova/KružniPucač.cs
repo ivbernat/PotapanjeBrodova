@@ -10,7 +10,7 @@ namespace PotapanjeBrodova
     {
         public KružniPucač(Polje prvoPogođeno, Mreža mreža)
         {
-            pogođenaPolja.Add(prvoPogođeno);
+            pogođenaPolja.Add(prvoPogođeno); 
             this.mreža = mreža;
 
         }
